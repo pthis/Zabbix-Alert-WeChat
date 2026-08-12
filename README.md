@@ -117,7 +117,7 @@ chmod +x /etc/zabbix/alertscripts/wechat.py
 # Star History
 
 **请给该项目一个star，您的点赞就是对我最大的支持与鼓励**
-[![Star History Chart](https://api.star-history.com/svg?repos=X-Mars/Zabbix-Alert-WeChat&type=Date)](https://star-history.com/#X-Mars/Zabbix-Alert-WeChat&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=X-Mars/Zabbix-Alert-WeChat&type=Date)](https://star-history.dera.page/#X-Mars/Zabbix-Alert-WeChat&Date)
 
 License
 ---
